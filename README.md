@@ -1,9 +1,8 @@
 # OctopusSwap SDK
-
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@uniswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@uniswap/sdk@latest)
 
-In-depth documentation on this SDK is available at [https://octopusswap.xyz](https://github.com/OctopusSwap/OctopusSwapSdk).
+In-depth documentation on this SDK is available at [https://octopusswap.xyz](https://octopusswap.xyz).
 
 ## Running tests
 
